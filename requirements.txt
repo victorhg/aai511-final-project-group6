@@ -1,5 +1,26 @@
+# Core MIDI processing
 mido
 pretty_midi
+
+# Data processing and analysis
 numpy
 matplotlib
 pandas
+scikit-learn
+
+# Deep learning frameworks
+tensorflow
+keras
+
+# Jupyter notebook support
+jupyter
+ipykernel
+
+# Additional utilities
+seaborn
+tqdm
+librosa
+music21
+
+# For data visualization
+plotly
