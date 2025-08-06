@@ -11,6 +11,7 @@ scikit-learn
 # Deep learning frameworks
 tensorflow
 keras
+scikeras
 
 # Jupyter notebook support
 jupyter
